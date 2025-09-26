@@ -45,7 +45,7 @@ This template bridges lightweight Google Forms with enterprise Jira. It enables 
 <img width="1770" height="678" alt="image" src="https://github.com/user-attachments/assets/e4707f70-f122-4c73-bec9-286470f0697a" />
 
 - A valid Jira issue in the configured project
-- 
+  
 <img width="1490" height="617" alt="image" src="https://github.com/user-attachments/assets/3f05bb33-8236-4e91-b35e-eb4568cd24a9" />
 
 - Email sent to stakeholders / requester
